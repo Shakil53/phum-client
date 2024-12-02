@@ -3,7 +3,7 @@
 const App = () => {
   return (
     <div>
-      <h1>new university</h1>
+      <h1>phum</h1>
     </div>
   );
 };
